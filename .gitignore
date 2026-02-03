@@ -10,6 +10,7 @@ client/dist/
 debugbar*.gem
 extension.zip
 public/debugbar.js
-
+node_modules
+.idea
 package-lock.json
 Gemfile.lock
